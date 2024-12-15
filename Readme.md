@@ -17,7 +17,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Szymekk44&show_icons=true" />
 </picture>
-
 <br>
 
 <picture>
@@ -32,4 +31,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szymekk44&layout=compact" />
 </picture>
 
-*Microsoft java my beloved*
+*Microsoft java my beloved*<br><br>
+***Hop on***
+<br>
+ <picture>
+    <source srcset="cooltext468475629796476.gif">
+    <img width=25%>
+  </picture>
