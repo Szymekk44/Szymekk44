@@ -1,7 +1,7 @@
 # 👋 Hi! 
 **I'm Szymekk aka Broom**
 <br>
-- 🛠️ Currently working on CosmosOS called Waterfall!
+- 🛠️ Creator of [Zyntra.xyz](https://zyntra.xyz/)
 - 🌐 I make some cool [youtube videos](https://www.youtube.com/Szymekk)
 - 💬 Contact me on my [discord server!](https://discord.com/invite/KUm5JuC9XV)
 <br>
