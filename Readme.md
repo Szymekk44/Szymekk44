@@ -1,7 +1,7 @@
 # 👋 Hi! 
 **I'm Szymekk aka Broom**
 <br>
-- 🛠️ Creator of [https://zyntra,xyz](https://zyntra.xyz/)
+- 🛠️ Creator of [https://zyntra.xyz](https://zyntra.xyz/)
 - 🌐 I make some cool [youtube videos](https://www.youtube.com/Szymekk)
 - 💬 Contact me on my [discord server!](https://discord.com/invite/KUm5JuC9XV)
 <br>
