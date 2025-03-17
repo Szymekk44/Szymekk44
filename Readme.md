@@ -2,8 +2,8 @@
 **I'm Szymekk aka Broom**
 <br>
 - 🛠️ Creator of [https://zyntra.xyz](https://zyntra.xyz/)
-- 🌐 I make some cool [youtube videos](https://www.youtube.com/Szymekk)
 - 💬 Contact me on my [discord server!](https://discord.com/invite/KUm5JuC9XV)
+- 🔥 More about me and my projects [here](https://szymekk.pl)
 <br>
 
 <picture>
@@ -31,10 +31,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szymekk44&layout=compact" />
 </picture>
 
-*Microsoft java my beloved*<br><br>
-***Hop on***
-<br>
- <picture>
-    <source srcset="cooltext468475629796476.gif">
-    <img width=25%>
-  </picture>
+*Microsoft java & js my beloved*<br><br>
+***Hop on zyntra***
